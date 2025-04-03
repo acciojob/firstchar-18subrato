@@ -1,6 +1,6 @@
 function firstChar(text) {
   text = text.trim();
-	if(text[i] ===''){
+	if(text  ===''){
 		return '';
 	}
 	else {
